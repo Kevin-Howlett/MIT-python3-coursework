@@ -7,7 +7,7 @@ Created on Tue Sep 10 17:12:02 2019
 """
 
 #program takes two floats or ints, base and exp, and raises the base to
-#the power of the exp
+#the power of the exp using iteration
 
 def iterPower(base, exp):
 
